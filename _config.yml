@@ -21,13 +21,12 @@
 title: sdn 5 randuagung
 email: sdnranduagung.lima@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Selamat datang di blog SD Negeri 5 Randuagung
+  Informasi Seputar Pendidikan dan lain - lain
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: sdn5randuagung
+github_username:  sdn5randuagung
 
 # Build settings
 theme: minima
